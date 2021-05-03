@@ -1,7 +1,7 @@
 
 # Week 03: Making Data Management Decisions
 
-I have used three variables for the analysis,  **'Femaleemployrate'**, **'Urbanrate'**, and **'Lifeexpectancy'**.
+# I have used three variables for the analysis,  **'Femaleemployrate'**, **'Urbanrate'**, and **'Lifeexpectancy'**.
 
  1. For Female-Employment Rate, it is clear that the most common response was 3 (45.07%), which means around 45% of the countries have their 
     female employment rate between 40% to 60%.
