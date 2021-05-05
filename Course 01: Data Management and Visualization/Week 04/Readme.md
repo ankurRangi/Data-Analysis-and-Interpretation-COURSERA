@@ -1,8 +1,9 @@
 # Week 04: Creating graphs for your data
 
  Week 04 Assignment 01
+#### BlogPost: https://marc0sop.tumblr.com/post/650370596683874304/week-04-creating-graphs-for-your-data
 
-## Variables -  ['femaleemployrate' 'urbanrate' 'lifeexpectancy']
+## Variables -  femaleemployrate, urbanrate, lifeexpectancy
 
 Code: https://github.com/ankurRangi/Data-Analysis-and-Interpretation-COURSERA/blob/main/Course%2001:%20Data%20Management%20and%20Visualization/Week%2004/FreqDistribution_W4.py
 
